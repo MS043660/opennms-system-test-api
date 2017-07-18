@@ -1,6 +1,6 @@
 = OpenNMS System Test API 
 :ascii-ids:
-:encoding: UTF-8 
+:encoding: UTF-8
 :icons: font
 :numbered:
 
