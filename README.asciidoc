@@ -1,7 +1,7 @@
 = OpenNMS System Test API 
 :ascii-ids:
 :encoding: UTF-8
-:icons: font
+:icons: font 
 :numbered:
 
 End-to-end test APIs for Minion/OpenNMS that leverage Docker for managing services.
